@@ -57,4 +57,4 @@ Durante o processo de configuração e análise, registre aprendizados valiosos:
 - Entenda como a pesquisa pode impactar positivamente a qualidade dos serviços.
 - Avalie a eficácia das ferramentas escolhidas e ajuste conforme necessário.
 
-**Parabéns!** Você configurou com sucesso uma pesquisa de satisfação do cliente com o Azure AI Search. Utilize os insights obtidos para melhorar continuamente a experiência do cliente em todas as unidades da multinacional de café.
+**Parabéns!** Configurado com sucesso uma pesquisa de satisfação do cliente com o Azure AI Search. Utilize os insights obtidos para melhorar continuamente a experiência do cliente em todas as unidades da multinacional de café.
